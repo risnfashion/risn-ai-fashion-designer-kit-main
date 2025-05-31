@@ -1,0 +1,252 @@
+"[
+{
+    "multilingual_greetings": [
+        {
+            "language": "Japanese",
+            "native_text": "RISNへようこそ — あなたのスタイルが物語を語る場所。",
+            "transliteration": "RISN e yōkoso",
+            "english_translation": "Welcome to RISN — where your style tells a story."
+        },
+        {
+            "language": "Korean",
+            "native_text": "RISN에 오신 것을 환영합니다 — 여기는 당신의 스타일이 이야기를 전합니다.",
+            "transliteration": "RISN-e osin geos-eul hwan-yeonghamnida",
+            "english_translation": "Welcome to RISN — where your style conveys a message."
+        },
+        {
+            "language": "French",
+            "native_text": "Bienvenue chez RISN — là où votre style raconte votre histoire.",
+            "transliteration": "",
+            "english_translation": "Welcome to RISN — where your style narrates your story."
+        },
+        {
+            "language": "Russian",
+            "native_text": "Добро пожаловать в RISN — где ваш стиль рассказывает вашу историю.",
+            "transliteration": "Dobro pozhalovat' v RISN",
+            "english_translation": "Welcome to RISN — where your style tells your story."
+        },
+        {
+            "language": "Arabic",
+            "native_text": "مرحبًا بك في RISN — حيث يحكي أسلوبك قصتك.",
+            "transliteration": "Marhaban bik fi RISN",
+            "english_translation": "Welcome to RISN — where your style tells your story."
+        },
+        {
+            "language": "Spanish",
+            "native_text": "Bienvenido a RISN — donde tu estilo narra tu historia.",
+            "transliteration": "Bienvenido a RISN",
+            "english_translation": "Welcome to RISN — where your style tells your story."
+        },
+        {
+            "language": "Portuguese",
+            "native_text": "Bem-vindo ao RISN — onde seu estilo conta sua história.",
+            "transliteration": "",
+            "english_translation": "Welcome to RISN — where your style tells your story."
+        },
+        {
+            "language": "Hindi",
+            "native_text": "RISN में आपका स्वागत है — जहाँ आपकी स्टाइल आपकी कहानी सुनाती है।",
+            "transliteration": "RISN men aapka swagat hai",
+            "english_translation": "Welcome to RISN — where your style narrates your story."
+        },
+        {
+            "language": "German",
+            "native_text": "Willkommen bei RISN — wo dein Stil deine Geschichte erzählt.",
+            "transliteration": "",
+            "english_translation": "Welcome to RISN — where your style tells your story."
+        },
+        {
+            "language": "Thai",
+            "native_text": "ยินดีต้อนรับสู่ RISN — ที่ทรงส่วนตัวของคุณเล่าเรื่องราวของคุณ",
+            "transliteration": "Yindi th̒nrạb s̀ū̀ RISN",
+            "english_translation": "Welcome to RISN — where your personal style tells your story."
+        },
+        {
+            "language": "Swahili",
+            "native_text": "Karibu RISN — ambapo mtindo wako unasimulia hadithi yako.",
+            "transliteration": "",
+            "english_translation": "Welcome to RISN — where your style narrates your story."
+        },
+        {
+            "language": "Dutch",
+            "native_text": "Welkom bij RISN — waar je stijl je verhaal vertelt.",
+            "transliteration": "",
+            "english_translation": "Welcome to RISN — where your style tells your story."
+        },
+        {
+            "language": "Vietnamese",
+            "native_text": "Chào mừng bạn đến với RISN — nơi phong cách của bạn kể lên câu chuyện của bạn.",
+            "transliteration": "",
+            "english_translation": "Welcome to RISN — where your style tells your story."
+        },
+        {
+            "language": "Turkish",
+            "native_text": "RISN'e hoş geldiniz — burada tarzınız hikayenizi anlatıyor.",
+            "transliteration": "",
+            "english_translation": "Welcome to RISN — where your style tells your story."
+        },
+        {
+            "language": "Urdu",
+            "native_text": "RISN میں خوش آمدید — جہاں آپ کی اسٹائل آپ کی کہانی سناتی ہے۔",
+            "transliteration": "RISN meṁ ḵẖuś āmdid",
+            "english_translation": "Welcome to RISN — where your style tells your story."
+        },
+        {
+            "language": "Italian",
+            "native_text": "Benvenuti in RISN — dove il tuo stile racconta la tua storia.",
+            "transliteration": "",
+            "english_translation": "Welcome to RISN — where your style tells your story."
+        },
+        {
+            "language": "Mandarin Chinese",
+            "native_text": "欢迎来到RISN — 在这里，您的格调讲述着您的故事。",
+            "transliteration": "Huānyíng lái dào RISN",
+            "english_translation": "Welcome to RISN — where your style tells your story."
+        },
+        {
+            "language": "Bengali",
+            "native_text": "RISN এ আপনাকে স্বাগতম — যেখানে আপনার শৈলী আপনার গল্প বলে।",
+            "transliteration": "RISN e āpanākē sbāgatama",
+            "english_translation": "Welcome to RISN — where your style tells your story."
+        },
+        {
+            "language": "Indonesian",
+            "native_text": "Selamat datang di RISN — di sini, gaya Anda menceritakan cerita Anda.",
+            "transliteration": "",
+            "english_translation": "Welcome to RISN — where your style tells your story."
+        },
+        {
+            "language": "Filipino",
+            "native_text": "Maligayang pagdating sa RISN — kung saan ang iyong estilo ay nagsasalaysay ng iyong kwento.",
+            "transliteration": "",
+            "english_translation": "Welcome to RISN — where your style narrates your story."
+        }
+    ]
+},
+"","json",
+{
+  "multilingual_greetings": [
+    {
+      "language": "Spanish",
+      "native_text": "Bienvenido a RISN — donde tu estilo narra tu historia.",
+      "transliteration": "Bienvenido a RISN",
+      "english_translation": "Welcome to RISN — where your style tells your story."
+    },
+    {
+      "language": "Mandarin Chinese",
+      "native_text": "欢迎光临RISN — 每一针线都在编织你未来的身份。",
+      "transliteration": "Huānyíng guānglín RISN",
+      "english_translation": "Welcome to RISN — where every thread weaves the future of your identity."
+    },
+    {
+      "language": "Japanese",
+      "native_text": "こんにちは。RISNへようこそ — あなたの服が、未来と伝統の物語を紡ぐ。",
+      "transliteration": "Konnichiwa. RISN e youkoso",
+      "english_translation": "Hello. Welcome to RISN — where your clothing spins tales of future and tradition."
+    },
+    {
+      "language": "Arabic",
+      "native_text": "مرحبا بكم في RISN — حيث تحكي الأزياء قصة روحكم.",
+      "transliteration": "Marhaban bikum fi RISN",
+      "english_translation": "Welcome to RISN — where garments narrate the story of your soul."
+    },
+    {
+      "language": "French",
+      "native_text": "Bienvenue chez RISN — où chaque vêtement est une renaissance de votre identité.",
+      "transliteration": "Bienvenue chez RISN",
+      "english_translation": "Welcome to RISN — where every garment is a rebirth of your identity."
+    },
+    {
+      "language": "German",
+      "native_text": "Willkommen bei RISN — Mode als Zeugnis Ihrer wandelbaren Seele.",
+      "transliteration": "Willkommen bei RISN",
+      "english_translation": "Welcome to RISN — fashion as testimony to your adaptable soul."
+    },
+    {
+      "language": "Tamil",
+      "native_text": "வரவேற்பு ரிஸ்ன் — உங்கள் தோற்றம் உங்கள் மாற்றத்தின் கவிதை.",
+      "transliteration": "Varavēṟpu RISN",
+      "english_translation": "Welcome to RISN — your appearance is the poetry of your transformation."
+    },
+    {
+      "language": "Hindi",
+      "native_text": "RISN में आपका स्वागत है — जहाँ आपकी शैली आपके पुनर्जन्म की गवाही देती है।",
+      "transliteration": "RISN mein aapka swagat hai",
+      "english_translation": "Welcome to RISN — where your style testifies to your rebirth."
+    },
+    {
+      "language": "Portuguese",
+      "native_text": "Bem-vindo(a) à RISN — onde cada costura é um mapa da sua jornada.",
+      "transliteration": "Bem-vindo(a) à RISN",
+      "english_translation": "Welcome to RISN — where every stitch maps your journey."
+    },
+    {
+      "language": "Swahili",
+      "native_text": "Karibu RISN — ambapo mtindo wako ni ushahidi wa mabadiliko yako.",
+      "transliteration": "Karibu RISN",
+      "english_translation": "Welcome to RISN — where your style is evidence of your evolution."
+    },
+    {
+      "language": "Russian",
+      "native_text": "Добро пожаловать в RISN — где стиль становится вашей новой кожей.",
+      "transliteration": "Dobro pozhalovat' v RISN",
+      "english_translation": "Welcome to RISN — where style becomes your new skin."
+    },
+    {
+      "language": "Tagalog",
+      "native_text": "Maligayang pagdating sa RISN — kung saan ang estilo mo ay salamin ng iyong pagbabago.",
+      "transliteration": "Maligayang pagdating sa RISN",
+      "english_translation": "Welcome to RISN — where your style mirrors your transformation."
+    },
+    {
+      "language": "Turkish",
+      "native_text": "RISN’a hoş geldiniz — giydiğiniz her parça, kimliğinizin bir haritasıdır.",
+      "transliteration": "RISN’a hoş geldiniz",
+      "english_translation": "Welcome to RISN — every piece you wear is a map of your identity."
+    },
+    {
+      "language": "Urdu",
+      "native_text": "رسن میں خوش آمدید — جہاں آپ کا انداز آپ کی روح کی عکاسی کرتا ہے۔",
+      "transliteration": "RISN mein khush aamdeed",
+      "english_translation": "Welcome to RISN — where your style reflects your soul."
+    },
+    {
+      "language": "Thai",
+      "native_text": "ยินดีต้อนรับสู่ RISN — ที่ซึ่งสไตล์ของคุณคือบทกวีแห่งการเปลี่ยนแปลง",
+      "transliteration": "Yin dee dtôn ráp sòo RISN",
+      "english_translation": "Welcome to RISN — where your style is a poem of transformation."
+    },
+    {
+      "language": "Dutch",
+      "native_text": "Welkom bij RISN — waar kleding de taal van je ziel spreekt.",
+      "transliteration": "Welkom bij RISN",
+      "english_translation": "Welcome to RISN — where clothing speaks the language of your soul."
+    },
+    {
+      "language": "Vietnamese",
+      "native_text": "Chào mừng đến với RISN — nơi trang phục kể câu chuyện tái sinh của bạn.",
+      "transliteration": "Chào mừng đến với RISN",
+      "english_translation": "Welcome to RISN — where garments tell the story of your rebirth."
+    },
+    {
+      "language": "Yoruba",
+      "native_text": "Ẹ ku abọ si RISN — ibi ti asọ ẹrọ rẹ jẹ iwe itan iyipada rẹ.",
+      "transliteration": "Ẹ ku abọ si RISN",
+      "english_translation": "Welcome to RISN — where your attire is the manuscript of your transformation."
+    },
+    {
+      "language": "Korean",
+      "native_text": "RISN에 오신 것을 환영합니다 — 당신의 스타일이 진화의 서사시가 되는 공간.",
+      "transliteration": "RISN-e osin geos-eul hwanyeonghamnida",
+      "english_translation": "Welcome to RISN — a space where your style becomes an epic of evolution."
+    },
+    {
+      "language": "Bahasa Malaysia",
+      "native_text": "Selamat datang ke RISN — di mana fesyenmu menulis semula cerita jati diri.",
+      "transliteration": "Selamat datang ke RISN",
+      "english_translation": "Welcome to RISN — where your fashion rewrites the story of your identity."
+    }
+  ]
+},
+"",""
+]"
